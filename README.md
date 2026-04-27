@@ -55,5 +55,5 @@ You'll want to ask questions relevant to whatever document you're using.
 Or with HTTPie it's a little easier:
 
 ```
-http :8080/ask question="What annotation should I use to create a REST controller?"
+http :8080/ask question="What annotation should I use to create a REST controller.?"
 ```
